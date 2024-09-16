@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-Hey there! I'm also a web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy playing video games all night? Let's connect and share some stories, whether it's about coding, documentaries, or the latest recipe I've tried! 😊
+Hey there! I'm also a web developer, bringing a tech-savvy touch to everything I do. When I'm not immersed in coding, you'll find me indulging in my love for documentaries. Oh, and did I mention I enjoy playing video games all night? Let's connect and share some stories, whether it's about coding, documentaries, or the latest game I've tried! 😊
 <img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 ### Tech Stack
